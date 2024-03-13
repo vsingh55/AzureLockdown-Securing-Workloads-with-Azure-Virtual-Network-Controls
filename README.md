@@ -54,7 +54,7 @@ The project consists of several skilling areas, each with corresponding tasks:
 
 2. **Navigate to the Project Directory:**
    ```
-   cd azure-virtual-networking-project
+   cd AzureLockdown-Securing-Workloads-with-Azure-Virtual-Network-Controls
    ```
 
 3. **Setup Azure Environment:**
