@@ -1,5 +1,8 @@
 ## Task 2: Control the Network Traffic to and from the Web Application
 
+### Scenario
+Your organization requires control of the network traffic to and from the web application. To further enhance the security of the web application, network security groups (NSG) and application security groups (ASG) can be configured. NSG is a security layer that filters network traffic to and from Azure resources, while ASG allows grouping of resources to be managed collectively. These security groups provide fine-grained control over the network traffic to and from the web application components.
+
 #### What:
 To enhance the security of the web application, we will control the network traffic using network security groups (NSGs) and application security groups (ASGs). NSGs act as a firewall, filtering traffic to and from Azure resources, while ASGs group resources to be managed collectively, providing fine-grained control over network traffic.
 
