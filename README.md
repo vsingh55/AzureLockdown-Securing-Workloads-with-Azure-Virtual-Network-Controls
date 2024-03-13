@@ -7,7 +7,7 @@ The project focuses on network isolation, traffic control, protection against ma
 This project aims to configure secure access to workloads using Azure virtual networking services. It is designed to prepare Azure Administrators for configuring secure access to web applications hosted on Azure. The project focuses on network isolation, traffic control, protection against malicious traffic, routing, and DNS configuration to enhance the security posture of the network.
 
 ## Architecture Diagram
-![az-networking](https://github.com/user-attachments/assets/495fab94-8e79-4910-a28b-e287be916910)
+![az-networking](https://github.com/user-attachments/assets/a87e2751-d780-4a2a-8a8b-a3b7afcabf69)
 
 
 ## Objectives
