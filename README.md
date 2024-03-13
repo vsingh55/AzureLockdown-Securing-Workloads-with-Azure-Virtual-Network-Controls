@@ -1,19 +1,23 @@
 # AzureLockdown-Securing-Workloads-with-Azure-Virtual-Network-Controls
 
 The project focuses on network isolation, traffic control, protection against malicious traffic, routing, and DNS configuration to enhance the security posture of the network.
-**Project: Secure Access to Workloads with Azure Virtual Networking Services**
 
-### Introduction
+
+## Introduction
 This project aims to configure secure access to workloads using Azure virtual networking services. It is designed to prepare Azure Administrators for configuring secure access to web applications hosted on Azure. The project focuses on network isolation, traffic control, protection against malicious traffic, routing, and DNS configuration to enhance the security posture of the network.
 
-### Objectives
+## Architecture Diagram
+![az-networking](https://github.com/user-attachments/assets/495fab94-8e79-4910-a28b-e287be916910)
+
+
+## Objectives
 - Create and configure virtual networks to provide network isolation and segmentation.
 - Control network traffic using Network Security Groups (NSGs) and Azure Firewall.
 - Protect the web application from malicious traffic and unauthorized access.
 - Route traffic to the firewall for inspection.
 - Record and resolve domain names internally using DNS configuration.
 
-### Project Structure
+## Project Structure
 The project consists of several skilling areas, each with corresponding tasks:
 
 1. **Create and Configure Virtual Networks:**
@@ -41,12 +45,12 @@ The project consists of several skilling areas, each with corresponding tasks:
    - Create and configure DNS records.
    - Configure DNS settings on a virtual network.
 
-### Prerequisites
+## Prerequisites
 - Azure subscription with sufficient permissions to create and manage resources.
 - Basic understanding of networking concepts.
 - Familiarity with Azure Portal and Azure CLI.
 
-### Instructions
+## Instructions
 1. **Clone the Repository:**
    ```
    git clone https://github.com/krvsc/AzureLockdown-Securing-Workloads-with-Azure-Virtual-Network-Controls.git
