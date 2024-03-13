@@ -1,4 +1,4 @@
-### Task 4: Route Traffic to the Firewall
+## Task 4: Route Traffic to the Firewall
 
 #### Scenario:
 With the firewall and associated policies in place, the next step is to route network traffic to the firewall subnet. By configuring route tables, you can direct network traffic to the firewall, allowing it to filter and inspect the traffic according to the defined security requirements. Route tables provide control over the routing of network traffic, ensuring that all traffic passes through the firewall for enhanced security and compliance.
