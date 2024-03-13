@@ -76,4 +76,4 @@ The project consists of several skilling areas, each with corresponding tasks:
 Contributions to this project are welcome. If you find any issues or improvements, feel free to open an issue or create a pull request. Ensure that contributions align with the project objectives and maintain clarity and correctness in documentation.
 
 ### Conclusion
-By completing this project, Azure Administrators will gain practical experience in configuring secure access to workloads using Azure virtual networking services. This hands-on experience will enhance their skills in network security, routing, and DNS configuration in the Azure environment.
+By completing this project, you will gain practical experience in configuring secure access to workloads using Azure virtual networking services. This hands-on experience will enhance their skills in network security, routing, and DNS configuration in the Azure environment.
